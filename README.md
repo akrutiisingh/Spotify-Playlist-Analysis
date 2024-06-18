@@ -1,5 +1,5 @@
 # Spotify-Playlist-Analysis
-Analysis of Spotify Top Hit Playlist(2010 - 2023)
+Analysis of Spotify Top Hit Playlist (2010 - 2023)
 
 Tasks Done:
 
@@ -20,5 +20,7 @@ Count number of songs by each artist
 Plot a bar graph of top 10 most popular artists from 2000 to 2010 and 2010 to 2022
 
 Plot a bar graph of top 10 most popular artists
+
+Libraries used in Python: Numpys,Pandas,Matplotlib
 
 
